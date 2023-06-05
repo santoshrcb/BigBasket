@@ -1,3 +1,5 @@
 #!/bin/bash
-i am the student of s.a.s.i.e matrubihar kalupadaghat,khordha
+i am the student of s.a.s.i.e matrubihar kalupadaghat,khordha 
+i have complete my school carre in 2013
+
 
