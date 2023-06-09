@@ -6,7 +6,7 @@ then
 else
     echo "NUM is odd"
 fi
-
+This programme is for checking a given or odd number
 
 
 
